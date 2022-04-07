@@ -6,7 +6,8 @@ The quickest and easiest way to run Cypress tests out of the box is by downloadi
 3.	Clone/download this repo
 4.	Open the root Delio Task folder in Cypress desktop buy either dragging it in or by manually selecting it
 5. Click Run in the test runner
- Test files can be found in Delio-task-main\cypress\integration\delio-task
+
+ Note the test files can be found in Delio-task-main\cypress\integration\delio-task
 
 
 # Test Cases/scenarios
